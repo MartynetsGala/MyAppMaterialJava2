@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BottomAppBar_2</string>
+    <string name="action_favorite">act_fav</string>
+    <string name="action_search">act_search</string>
+    <string name="action_settings">act_sett</string>
+    <string name="nav_item1">item1</string>
+    <string name="nav_item2">item2</string>
+    <string name="nav_item3">item3</string>
+    <string name="action_mail">act_mail</string>
+    <string name="action_delete">act_del</string>
+    <string name="action_archieve">act_arch</string>
+    <string name="toggle_fab_string">Переключить окно</string>
+    <string name="primary_screen_text">Первое окно</string>
+    <string name="secondary_sceen_text">Secondary Screen</string>
+</resources>
